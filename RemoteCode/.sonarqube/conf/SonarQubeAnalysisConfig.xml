@@ -5,7 +5,7 @@
   <SonarBinDir>E:\RemoteCode\RemoteCode\.sonarqube\bin</SonarBinDir>
   <SonarScannerWorkingDirectory>E:\RemoteCode\RemoteCode</SonarScannerWorkingDirectory>
   <SonarQubeHostUrl>https://sonarcloud.io</SonarQubeHostUrl>
-  <SonarProjectKey>ayesha</SonarProjectKey>
+  <SonarProjectKey>ayesha79</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />

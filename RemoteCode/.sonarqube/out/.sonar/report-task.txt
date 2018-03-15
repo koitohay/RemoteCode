@@ -1,0 +1,7 @@
+organization=koitohay-github
+projectKey=ayesha79
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.37735
+dashboardUrl=https://sonarcloud.io/dashboard/index/ayesha79
+ceTaskId=AWIp1DW5i0ZusgP9FNt-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWIp1DW5i0ZusgP9FNt-

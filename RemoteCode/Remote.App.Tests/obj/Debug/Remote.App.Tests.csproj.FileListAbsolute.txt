@@ -61,3 +61,6 @@ E:\RemoteCode\RemoteCode\Remote.App.Tests\obj\Debug\Remote.App.Tests.csprojResol
 E:\RemoteCode\RemoteCode\Remote.App.Tests\obj\Debug\Remote.App.Tests.dll
 E:\RemoteCode\RemoteCode\Remote.App.Tests\obj\Debug\Remote.App.Tests.pdb
 E:\RemoteCode\RemoteCode\Remote.App.Tests\bin\Debug\ApplicationInsights.config
+E:\RemoteCode\RemoteCode\Remote.App.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\RemoteCode\RemoteCode\Remote.App.Tests\bin\Debug\EntityFramework.dll
+E:\RemoteCode\RemoteCode\Remote.App.Tests\bin\Debug\EntityFramework.xml

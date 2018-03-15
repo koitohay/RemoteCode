@@ -87,3 +87,4 @@ E:\RemoteCode\RemoteCode\Remote.App\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\RemoteCode\RemoteCode\Remote.App\bin\Microsoft.AI.Web.xml
 E:\RemoteCode\RemoteCode\Remote.App\bin\Microsoft.AI.WindowsServer.xml
 E:\RemoteCode\RemoteCode\Remote.App\bin\Microsoft.ApplicationInsights.xml
+E:\RemoteCode\RemoteCode\Remote.App\bin\Remote.App.dll.config
