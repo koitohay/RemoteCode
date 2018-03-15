@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote.App", "Remote.App\Remote.App.csproj", "{76C37E98-1C64-4813-918F-E5FDF7D43E34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote.App.Tests", "Remote.App.Tests\Remote.App.Tests.csproj", "{72DE15A7-5793-4B51-9886-AE7268032BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C37E98-1C64-4813-918F-E5FDF7D43E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C37E98-1C64-4813-918F-E5FDF7D43E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C37E98-1C64-4813-918F-E5FDF7D43E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C37E98-1C64-4813-918F-E5FDF7D43E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DE15A7-5793-4B51-9886-AE7268032BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DE15A7-5793-4B51-9886-AE7268032BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DE15A7-5793-4B51-9886-AE7268032BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DE15A7-5793-4B51-9886-AE7268032BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
